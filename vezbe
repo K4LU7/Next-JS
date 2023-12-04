@@ -5,3 +5,15 @@ function Povecaj(){
 }
 Povecaj();
 console.log(y);
+
+//ista funkcija
+
+let x="0";
+x++;
+console.log(x);
+
+function plusplus(broj_x){
+let broj=Number(broj_x);
+x=broj+1;
+return x;
+}
