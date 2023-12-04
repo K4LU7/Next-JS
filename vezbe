@@ -1,0 +1,7 @@
+/* VEZBE 4.12.2k23 */
+let y=0;
+function Povecaj(){
+    y++;
+}
+Povecaj();
+console.log(y);
